@@ -4,7 +4,12 @@ This is a Supply Chain Management challenge.
 <br>
 <br>
 <p>
-We have two inputs.  The Historical Data File contains information on a Supplier name, Annual Purchasing Value (APV) and Part Number (PN).  Our second input, the New Demand File, contains data on the forecasted APV)for the PNs that will be demanded.
+We have two inputs. 
+<ul>
+<li>
+The Historical Data File contains information on a Supplier name, Annual Purchasing Value (APV) and Part Number (PN).</li>
+<li>Our second input, the New Demand File, contains data on the forecasted APV)for the PNs that will be demanded.</li>
+</ul>
 </p>
 <br>
 <br>
